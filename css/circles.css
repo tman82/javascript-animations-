@@ -1,0 +1,46 @@
+
+
+/* id of each circle */
+
+
+#circle1 {
+	height: 100px;
+	width: 100px;
+	border: solid #ccc 1px;
+	margin: 400px 0px 0px 200px;
+	border-radius: 50px;
+	position: relative;
+	transition: 0.4s ease-in-out;
+	
+}
+
+#circle2 {
+	height: 100px;
+	width: 100px;
+	border: solid #276FBF 1px;
+	margin: 150px 0px 0px 270px;
+	border-radius: 50px;
+	position: relative;
+	transition: 0.4s ease-in-out;
+
+}
+
+#circle3 {
+	height: 100px;
+	width: 100px;
+	border: solid #FF729F 1px;
+	margin: -300px 0px 0px 500px;
+	border-radius: 50px;
+	position: relative;
+	transition: 0.4s ease-in-out;
+}
+
+#circle4 {
+	height: 100px;
+	width: 100px;
+	border: solid #09A129 1px;
+	margin: -400px 0px 0px 240px;
+	border-radius: 50px;
+	position: relative;
+	transition: 0.4s ease-in-out;
+}
